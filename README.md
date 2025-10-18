@@ -84,6 +84,7 @@ This query updates results dynamically as the user types in the search bar.
 
 ## 📸 Screenshots
 
+<img width="1077" height="583" alt="Screenshot 2025-10-18 205719" src="https://github.com/user-attachments/assets/40c155d5-f5d5-4031-b544-521cd0452cb8" />
 
 
 ---
