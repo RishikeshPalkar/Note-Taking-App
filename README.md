@@ -102,8 +102,8 @@ This query updates results dynamically as the user types in the search bar.
 
 **Rishikesh Palkar**  
 📍 Android Developer | Kotlin | MVVM | Compose  
-🔗 [LinkedIn Profile](https://www.linkedin.com/)  
-💻 [GitHub Profile](https://github.com/)  
+🔗 [LinkedIn Profile](www.linkedin.com/in/rishikeshpalkar240904)  
+💻 [GitHub Profile](https://github.com/RishikeshPalkar/Note-Taking-App)  
 
 ---
 
