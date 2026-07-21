@@ -98,12 +98,12 @@ This query updates results dynamically as the user types in the search bar.
 
 ---
 
-## 🤝 Connect with Me
+
 
 **Rishikesh Palkar**  
 📍 Android Developer | Kotlin | MVVM | Compose  
-🔗 [LinkedIn Profile](www.linkedin.com/in/rishikeshpalkar240904)  
-💻 [GitHub Profile](https://github.com/RishikeshPalkar/Note-Taking-App)  
+
+
 
 ---
 
